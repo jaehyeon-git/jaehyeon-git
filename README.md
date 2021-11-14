@@ -21,8 +21,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sd205">   
 
 ## 💿git status📀 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jaehyeon-git&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeon-git&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaehyeon-git)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jaehyeon-git&show_icons=true) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeon-git&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaehyeon-git)
 
 
 <!--
