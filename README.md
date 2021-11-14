@@ -7,7 +7,6 @@
 ### Hi there 👋, My name is Jang Jae Hyeon
 ### I'm Embedded Software & Machine Learning Engineer
 
-
 ## 💪Skills👊
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 
@@ -19,9 +18,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ## 💻Algorithm💻 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sd205"/> <p></p>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sd205">   
 
-## git status 
+## 💿git status📀 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jaehyeon-git&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeon-git&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaehyeon-git)
 
