@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there 👋 
+### Hi there 👋, My name is Jang Jae Hyeon
 ### I'm Embedded Software & Machine Learning Engineer
 
 
