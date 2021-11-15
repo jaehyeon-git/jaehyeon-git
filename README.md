@@ -14,19 +14,16 @@
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Arm-0091BD?style=flat-square&logo=Arm&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
 
-<br></br>
 
 ## 🛠Tools🛠
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
-<br></br>
 
 ## 💻Algorithm💻 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sd205">   
 
-<br></br>
 
 ## 💿git status📀 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jaehyeon-git&show_icons=true) [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeon-git&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaehyeon-git)
