@@ -5,7 +5,7 @@
 </div>
 
 ### Hi there 👋, My name is Jang Jae Hyeon
-### I'm Embedded AI Engineer
+### I'm Embedded SW Engineer
 
 <br></br>
 
